@@ -1,2 +1,1 @@
-# Repositorio-Prep-Course
-Acá vamos a hacer pruebas.
+Pruebas en repositorio GIT.
